@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will practice what I've learnt about html so far. Basically, how to deploy different elements on the webpage which will be, paragraphs, titles, lists, links and images, apart from modifying some parts of these elements like setting a word in bold or italic type. 
